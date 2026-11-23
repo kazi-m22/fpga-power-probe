@@ -1,0 +1,32 @@
+# Vivado generated / local
+**/.Xil/
+**/*.log
+**/*.jou
+**/*.str
+**/*~
+**/.cache/
+**/*.cache/
+**/vivado_pid*
+**/*.runs/
+**/*.sim/
+**/*.hw/
+**/*.ip_user_files/
+**/*.backup.v/
+**/*.backup.xdc/
+**/project_1/
+*.vcd
+*.wdb
+
+# Python / Jupyter
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local agent / temp
+_create_projects*
+*.tmp
